@@ -1,6 +1,7 @@
 Questions::
 
 What is responsible for defining the routes of the games resource?
+
 The file 'server/helpers/create_route.js' defines the routes.
 
 
